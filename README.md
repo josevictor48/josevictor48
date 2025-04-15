@@ -1,6 +1,4 @@
 - 👋 hallo ich bin @josevictor48
-- 👀ola sou novo no git hub e procuro melhorar
-- 🌱 quero aprender coisas novas
 
 - 
   ![](https://media.tenor.com/Bsv6xQTyqt8AAAAd/deepwoken-sharko-dancing-megalodaunt-dacing.gif)
